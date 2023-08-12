@@ -1,6 +1,6 @@
 # Expenses
 
-(screen1.jpg)
+![When You try to delte task](screen1.jpg)
 
 ## Getting Started
 
