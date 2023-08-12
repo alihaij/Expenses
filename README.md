@@ -1,6 +1,6 @@
 # Expenses
 
-[test](screen1.jpg)
+(screen1.jpg)
 
 ## Getting Started
 
