@@ -24,6 +24,11 @@ class ExpensesList extends StatelessWidget {
           margin: EdgeInsets.symmetric(
             horizontal: Theme.of(context).cardTheme.margin!.horizontal,
           ),
+          child: const Icon(
+            Icons.delete_forever,
+            color: Colors.white,
+            size: 33,
+          ),
         ),
         onDismissed: (direction) {
           onRemoveExpense(expenses[index]);
